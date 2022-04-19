@@ -1,7 +1,7 @@
 # JavaScript Algorithms and Data Structures projects - solutions
 
 These projects in Javascript are part of the __final projects__
-![__final projects__](/Final5projects.png) bounds to obtain the __"JavaScript Algorithms and Data Structures"__ [certificate](https://www.freecodecamp.org/certification/AntonBarreraMora/javascript-algorithms-and-data-structures) from [FreeCodeCamp.org](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/), of 300 hours of study.
+![__final projects__](/Final5projects.png) bounds to obtain the __"JavaScript Algorithms and Data Structures"__ [certificate](https://www.freecodecamp.org/certification/AntonBarreraMora/javascript-algorithms-and-data-structures) from [FreeCodeCamp.org](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/), of 300 study hours.
 
 Contents:
 
